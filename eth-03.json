@@ -1,0 +1,15 @@
+{
+  "BB": {
+    "ip": "192.168.1.1",
+    "user": "root",
+    "password": "root"
+  },
+  "PC": {
+    "ip": "192.168.1.2",
+    "user": "osboxes",
+    "password": "spanidea"
+  },
+  "duration": 10,
+  "bandwidth": "1G"
+}
+
