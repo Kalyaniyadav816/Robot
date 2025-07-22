@@ -1,0 +1,23 @@
+{
+  "devices": {
+    "RPI1": {
+      "ip": "192.168.201.38",
+      "user": "rpi",
+      "password": "rpi"
+    },
+    "RPI2": {
+      "ip": "192.168.201.41",
+      "user": "pi",
+      "password": "spanidea"
+    },
+    "openwrt": {
+      "ip": "192.168.201.32",
+      "user": "root",
+      "password": "root"
+    }
+  },
+  "SSID": "OpenWrt-Naresh",
+  "PSK": "1234567890",
+  "encryption": "wpa2"
+}
+
